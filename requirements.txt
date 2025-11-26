@@ -1,0 +1,8 @@
+locust==2.39.0
+langfuse==2.53.2
+aiokafka==0.12.0
+aiofiles==25.1.0
+llama-index==0.12.52
+llama-index-llms-openai==0.4.7
+llama-index-program-openai==0.3.2
+openpyxl==3.1.5
